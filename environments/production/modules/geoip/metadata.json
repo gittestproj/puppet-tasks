@@ -1,0 +1,26 @@
+{
+  "types": [
+
+  ],
+  "checksums": {
+    "README.md": "88efc2d7ae38fb22d3f924ef995b1800",
+    "manifests/conf.pp": "67b4284569295593a917e437ea5da9cc",
+    "ChangeLog": "ea2bfd1dac263a550709e0a65f7789df",
+    "manifests/file.pp": "9817a1be0cbc8f2fcb5cf180ba95c27a",
+    "LICENSE": "99219472697a01561e7630d63aaecdc1",
+    "templates/GeoIP.conf.erb": "4c44e406a3773ddc4910bcf8f120f3fa",
+    "Modulefile": "0251cc03d703c5114f2f71fdd536f7cb",
+    "manifests/common.pp": "22e505792167f79866a11f0ee60a9687"
+  },
+  "description": "Install Maxmind GeoIP databases.",
+  "project_page": "https://github.com/thias/puppet-geoip",
+  "dependencies": [
+
+  ],
+  "name": "thias-geoip",
+  "author": "Matthias Saou",
+  "license": "Apache 2.0",
+  "summary": "GeoIP module",
+  "version": "0.1.2",
+  "source": "git://github.com/thias/puppet-geoip"
+}

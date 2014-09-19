@@ -11,6 +11,5 @@ ensure=>'installed'
 }
 #include "java"
 #include "jboss"
-#include "deploy"
-include "guestbook"
+include "deploy"
 }
